@@ -13952,9 +13952,6 @@ You gain Coordinate: Corps Trooper.</characteristic>
               </characteristics>
             </profile>
           </profiles>
-          <infoLinks>
-            <infoLink id="e2f1-7b88-b657-edb8" name="Sentinel" hidden="false" targetId="cbd6-101d-191d-d189" type="rule"/>
-          </infoLinks>
           <categoryLinks>
             <categoryLink id="5ee9-6ce1-86c6-179b" name="Unreleased (†)" hidden="false" targetId="d3db-0eeb-a7f3-eb43" primary="false"/>
           </categoryLinks>
